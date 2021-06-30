@@ -1,0 +1,155 @@
+                        @media (max-width: 575.98px) {
+                            ...
+                        }
+                        
+                        // Small devices (landscape phones, 576px and up)
+                        @media (min-width: 576px) and (max-width: 767.98px) {
+                            ...
+                        }
+                        
+                        // Medium devices (tablets, 768px and up)
+                        @media (min-width: 768px) and (max-width: 991.98px) {
+                            ...
+                        }
+                        
+                        // Large devices (desktops, 992px and up)
+                        @media (min-width: 992px) and (max-width: 1199.98px) {
+                            ...
+                        }
+                        
+                        // Extra large devices (large desktops, 1200px and up)
+                        @media (min-width: 1200px) {
+                            ...
+                        }
+                        
+                        #telalogin {
+                            width: 350px;
+                            position: absolute;
+                            top: 50%;
+                            left: 50%;
+                            transform: translate(-50%, -50%);
+                            box-shadow: 1px 5px 30px rgb(195, 195, 195);
+                            align-items: center;
+                            display: flex;
+                        }
+                        
+                        #nome {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: xx-large;
+                            width: 290px;
+                            position: absolute;
+                            top: 20%;
+                            left: 46%;
+                            transform: translate(-20%, -46%);
+                            background-color: white;
+                            align-items: center;
+                            width: 350px;
+                            display: flex;
+                        }
+                        
+                        #nomecadastro {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: xx-large;
+                            width: 290px;
+                            position: absolute;
+                            top: 10%;
+                            left: 42%;
+                            transform: translate(-10%, -42%);
+                            background-color: white;
+                            align-items: center;
+                        }
+                        
+                        #pgdashboard {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: x-large;
+                            width: 300px;
+                            position: absolute;
+                            margin-top: -35px;
+                            margin-left: 43px;
+                            background-color: white;
+                            align-items: left;
+                            grid: flex
+                        }
+                        
+                        #inscrevase {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: x-large;
+                            width: 300px;
+                            position: absolute;
+                            top: 6%;
+                            left: 13%;
+                            transform: translate(-6%, -13%);
+                            background-color: white;
+                            align-items: left;
+                        }
+                        
+                        #subtitle {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: medium;
+                            width: 300px;
+                            position: absolute;
+                            top: 12%;
+                            right: 57%;
+                            transform: translate(-12%, -57%);
+                            background-color: white;
+                            align-items: right;
+                        }
+                        
+                        #telacadastro {
+                            width: 350px;
+                            position: absolute;
+                            top: 52%;
+                            left: 50%;
+                            transform: translate(-52%, -50%);
+                            box-shadow: 1px 5px 30px rgb(195, 195, 195);
+                            align-items: left;
+                        }
+                        
+                        #menudashboard {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: x-large;
+                            width: 300px;
+                            position: absolute;
+                            margin-top: -10px;
+                            margin-left: 43px;
+                            Background-color: white;
+                            align-items: left;
+                        }
+                        
+                        #evolucao {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: large;
+                            width: 300px;
+                            position: absolute;
+                            top: 7%;
+                            left: 20%;
+                            transform: translate(-7%, -20%);
+                            background-color: white;
+                            align-items: left;
+                        }
+                        
+                        #escolhaatividade {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: large;
+                            width: 300px;
+                            position: absolute;
+                            top: 70%;
+                            left: 40%;
+                            transform: translate(-70%, -40%);
+                            background-color: white;
+                            align-items: left;
+                        }
+                        
+                        #logop4 {
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-style: italic;
+                            font-size: xx-large;
+                        }
